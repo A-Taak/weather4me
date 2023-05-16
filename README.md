@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Weather Forecast Application 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This application was made using React.js, can be ran by cloning the repo and using command 'npm start'
 
 ## Available Scripts
 
