@@ -1,6 +1,10 @@
 # Weather Forecast Application 
 
-This application was made using React.js, can be ran by cloning the repo and using command 'npm start'
+Visit application out at https://A-taak.github.io/weather4me
+
+This application was made using React.js, can be ran by cloning the repo and using command 'npm start', if link above does not work.
+
+NOTE: Application uses API for search bar on basic plan, if error occurs about day rate limit exceeded, just refresh page and try again.
 
 ## Available Scripts
 
